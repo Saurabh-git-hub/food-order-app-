@@ -3,14 +3,12 @@
 A **Full Stack Food Ordering Web App** built with **Next.js**, **Tailwind CSS**, **Clerk**, and **HyGraph**. This project enables users to explore dishes, authenticate securely, and place orders with real-time feedback.
 
 [🚀 Live Demo](https://food-order-app-2-saurabh-git-hubs-projects.vercel.app/) 
---
-• [📁 GitHub Repo](https://github.com/Saurabh-git-hub/food-order-app-)
 
----
+--
 
 ## 📸 Cover Image
 
-![Food Order App Screenshot](public/home.png)
+![Home Page](./Image%20Food%20Order/home%20.png)
 
 ---
 
@@ -18,7 +16,96 @@ A **Full Stack Food Ordering Web App** built with **Next.js**, **Tailwind CSS**,
 
 Watch the full walkthrough of the app and its key features:
 
-🔗 [Click to Watch the Demo Video](https://github.com/user-attachments/assets/5ae93397-5b0f-4d10-9e53-22f625e0397b)
+---
+
+## ✨ Features (Step-by-Step Guide)
+
+A walkthrough of the entire food ordering journey with screenshots for each step.
+
+---
+### 🏠 1. Home Page – Explore Dishes
+
+Users land on the homepage where they can browse through delicious food items.
+- Browse a variety of delicious food items.
+- Clean and responsive UI powered by Tailwind CSS.
+- Food items loaded from Headless CMS (HyGraph).
+
+![Home Page](./Image%20Food%20Order/home%20.png)
+
+### 🔐 2. Login Page
+
+Users authenticate securely via Clerk.
+- Auth handled by **Clerk** with secure login/signup.
+- Google Sign-In for fast onboarding.
+- Redirects to home after successful login.
+
+![Login](./Image%20Food%20Order/login%20.png)
+
+![Home Page Extended](./Image%20Food%20Order/home%202%20.png)
+
+---
+
+### 👤 3. User Profile
+
+Users can manage their personal profile.
+- Displays user profile info and profile picture.
+- Shows order history (optional expansion).
+- Managed by Clerk authentication session.
+
+![Profile](./Image%20Food%20Order/profile%20.png)
+
+---
+
+### 🛍️ 4. Place Your Order
+
+Users add items to the cart and proceed to order placement.
+- Add/remove items with real-time cart updates.
+- Displays price, quantity, and total amount.
+- User-friendly layout for faster checkout.
+
+![Order Page](./Image%20Food%20Order/order.png)
+
+---
+
+### 📝 5. Submit Review
+
+Users can rate and review food items after ordering.
+- Add star-based ratings and write reviews.
+- Helps improve trust and engagement.
+
+![Review 1](./Image%20Food%20Order/review%20.png)
+![Review 2](./Image%20Food%20Order/review%202.png)
+![Review 3](./Image%20Food%20Order/review%203.png)
+
+---
+
+### 💳 6. Payment Page
+
+User sees detailed payment information and chooses the payment method.
+- Shows breakdown of items and delivery charges.
+- Secure payment flow ensures order reliability.
+
+![Payment Page](./Image%20Food%20Order/payment.png)
+
+---
+
+### 🎯 7. Final Payment Confirmation
+
+Confirmation page shown after successful payment.
+- Confirmation of successful order placement.
+- Order summary and thank you message.
+- Guides user back to homepage or order history.
+
+![Final Payment](./Image%20Food%20Order/final%20payment.png)
+
+---
+
+### 🎬 Demo Video
+
+Watch the app in action with a full video walkthrough:
+
+🎥 [Watch Demo Video](./Image%20Food%20Order/Food%20Order%20App.mp4)
+
 
 ---
 
@@ -132,6 +219,8 @@ Visit the app at http://localhost:3000/.
 - Place an order to see checkout confirmation and email notification.
 
 ---
+• [📁 GitHub Repo](https://github.com/Saurabh-git-hub/food-order-app-)
+--
 
 ## 👨‍💻 Contributors
 
