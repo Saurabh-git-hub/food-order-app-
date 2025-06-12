@@ -2,19 +2,14 @@
 
 A **Full Stack Food Ordering Web App** built with **Next.js**, **Tailwind CSS**, **Clerk**, and **HyGraph**. This project enables users to explore dishes, authenticate securely, and place orders with real-time feedback.
 
-[🚀 Live Demo](https://food-order-app-2-saurabh-git-hubs-projects.vercel.app/) 
+---
 
---
+## [🚀 Live Demo](https://food-order-app-2-saurabh-git-hubs-projects.vercel.app/) 
+
 
 ## 📸 Cover Image
 
 ![Home Page](./Image%20Food%20Order/home%20.png)
-
----
-
-## 🎬 Demo Video
-
-Watch the full walkthrough of the app and its key features:
 
 ---
 
@@ -104,8 +99,7 @@ Confirmation page shown after successful payment.
 
 Watch the app in action with a full video walkthrough:
 
-🎥 [Watch Demo Video](./Image%20Food%20Order/Food%20Order%20App.mp4)
-
+https://github.com/user-attachments/assets/880696fa-5bea-4737-8339-35e9334b1966
 
 ---
 
